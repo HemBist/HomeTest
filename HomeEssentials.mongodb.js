@@ -1,3 +1,4 @@
+//Created a collection HomeTest
 db.createCollection('HomeTest')
 
 db.HomeTest.insertOne({
